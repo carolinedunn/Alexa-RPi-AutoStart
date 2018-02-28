@@ -1,5 +1,3 @@
-Dear Carline,
-
 My name is Wayne Courtney.
 I am an Electronics Technician for over 30 years now.
 I was always interested in Electronics and graduated from Metropolitan Technical Institute back in 1977.

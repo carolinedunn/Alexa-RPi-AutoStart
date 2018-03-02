@@ -1,7 +1,7 @@
 # Alexa-RPi-AutoStart
 If you are using the Alexa Device SDK on Raspberry Pi, this code will automatically run a script to start Alexa on boot.
 
-The code and instructions below were provided to me by Wayne Courtney (see readme.txt for full details). Have personally verified that all instructions work exactly as documented below.
+The code and instructions below were provided by Wayne Courtney (see readme.txt for full details). I have personally verified that all instructions work exactly as documented below.
 
 How To Install Alexa On Raspberry Pi With Autorun And Autoboot With Only 4 Terminal Commands, (Explained In Detail For A Newbee):
 

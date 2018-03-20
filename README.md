@@ -47,10 +47,16 @@ This will reboot the computer, the computer needs to be rebooted to apply the ne
 6. After the scan is complete, single left mouse click on the (WiFi) icon, the next one to the right of the (Bluetooth) icon and located on the taskbar, scroll down to your network and select with a single left or right mouse click, a window will open, type in the password, then press the (Enter) key.
 This will connect the system to the internet.
 
-7. Single left mouse click on the (Terminal) icon, the next one to the right of the (Folder) icon and located on the taskbar.
+7a. Copy and paste this link into your browser to test the ATS Certificate Authorities (CA) connection. 
+https://avs-ats-cert-test.amazon.com
+This will test the ATS Certificate Authorities (CA) connection. 
+ 
+7b. Close the browser window, by a single left mouse click on the (X) in the upper right corner.
+
+8a. Single left mouse click on the (Terminal) icon, the next one to the right of the (Folder) icon and located on the taskbar.
 This will open the terminal.
 
-8. Type in:
+8b. Type in:
 sudo apt-get update 
 Then press the (Enter) key. 
 This command will update the system.
@@ -176,7 +182,7 @@ This will activate Alexa to run on the system.
 
 46. Close the (Alexa Voice Service) window and the browser window, by a single left mouse click on the (X) in the upper right corners.
 
-Adjustment Of The Sleep Time Value:
+Adjustment of The Sleep Time Value:
 
 47. Single left mouse click on the (Raspberry) icon, the one at the upper left corner and located on the taskbar, scroll down to (Shutdown) and select with a single left or right mouse click, a (Shutdown options) window will open, single left mouse click on the (Reboot) button.
 This will reboot the computer, the computer needs to be rebooted every time you need to restart Alexa from the (alexa_autorun.sh) file.
@@ -258,7 +264,9 @@ Short Summery Of The Procedure: (For Advanced Users)
 
 3. Setup the internet connection.
 
-4. Update and upgrade the system.
+4a. Test the ATS Certificate Authorities (CA) connection. 
+
+4b. Update and upgrade the system.
 
 5. Reboot the computer.
 

@@ -57,22 +57,30 @@ This will test the ATS Certificate Authorities (CA) connection.
 This will open the terminal.
 
 8b. Type in:
+```
 sudo apt-get update 
+```
 Then press the (Enter) key. 
 This command will update the system.
 
 9. Type in:
-sudo apt-get upgrade  
+```
+sudo apt-get upgrade
+```
 Press the (Y) key to continue, then press the (Enter) key. 
 This command will upgrade the system.
 
 10. Type in:
+```
 git clone https://github.com/alexa/alexa-avs-sample-app.git 
+```
 Then press the (Enter) key. 
 This command will install the (alexa-avs-sample-app) folder into the (/home/pi) directory.
 
 11. Type in:
+```
 reboot
+```
 This will reboot the computer, the computer needs to be rebooted to apply the updates and upgrades.
 
 12. Close the terminal by a single left mouse click on the (X) in the upper right corner. 

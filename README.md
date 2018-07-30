@@ -1,4 +1,6 @@
 # Alexa-RPi-AutoStart
+This set of instructions pertains to the AVS Sample app located here -> https://github.com/alexa/alexa-avs-sample-app.git 
+
 If you are using the Alexa Device SDK on Raspberry Pi, this code will automatically run a script to start Alexa on boot.
 
 The code and instructions below were provided by Wayne Courtney (see readme.txt for full details). I have personally verified that all instructions work exactly as documented below.
